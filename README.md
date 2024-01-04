@@ -12,8 +12,6 @@ I have been learning to code for a few months now, after taking a two month brea
 *   🚀  I'm currently working on [Some small Python projects](http://https://github.com/GabrielCarroll14)
 *   🧠  I'm learning Python and all the modules inside!
 *   🤝  I'm open to collaborating on anything!
-<a href="https://www.github.com/GabrielCarroll14" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/GabrielCarroll14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
