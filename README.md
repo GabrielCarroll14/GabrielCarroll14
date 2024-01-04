@@ -8,7 +8,7 @@ I have been learning to code for a few months now, after taking a two month brea
 
 *   🌍  I'm based in United Kingdom
 *   🖥️  See my portfolio at [My GitHub!](http://github.com/GabrielCarroll14)
-*   ✉️  You can contact me at [gabrielcarroll11@gmail.com](mailto:gabrielcarroll11@gmail.com)
+*   ✉️  You can contact me at [gabrielcarrollart@gmail.com](mailto:gabrielcarrollart@gmail.com)
 *   🚀  I'm currently working on [Some small Python projects](http://https://github.com/GabrielCarroll14)
 *   🧠  I'm learning Python and all the modules inside!
 *   🤝  I'm open to collaborating on anything!
