@@ -8,10 +8,11 @@ I am a developer with moderate experience in Python and a little bit of experien
 
 *   🌍  I'm based in United Kingdom.
 *   🖥️  See my portfolio at [my website.](http://gabrielcarroll14.github.io)
-*   ✉️  You can contact me at [gabrielcarrollart@gmail.com.](mailto:gabrielcarrollart@gmail.com.)
 *   🚀  I'm currently working on [a apple watch app called WatchSlots and my website.](http://discord.gg/NTeqWjnAEu)
 *   🧠  I'm learning Python, Game dev with Unreal Engine, Blender and Swift.
 *   🤝  I'm open to collaborating on Any Python, Swift or webdev project.
+<a href="https://www.github.com/GabrielCarroll14" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/GabrielCarroll14?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
 
 ### Skills 
 <p align="left">
@@ -31,4 +32,4 @@ I am a developer with moderate experience in Python and a little bit of experien
 
 <a href="http://www.github.com/GabrielCarroll14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCarroll14&stroke=6366f1&background=000000&ring=ffffff&fire=ffffff&currStreakNum=6366f1&currStreakLabel=ffffff&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-<a href="https://github.com/GabrielCarroll14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarroll14&langs_count=10&title_color=ffffff&text_color=6366f1&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/GabrielCarroll14"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GabrielCarroll14&bg_color=000000&color=6366f1&line=a855f7&point=6366f1&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
