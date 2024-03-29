@@ -8,7 +8,7 @@ I am a developer with moderate experience in Python and a little bit of experien
 
 *   🌍  I'm based in United Kingdom
 *   🖥️  See my portfolio at [my website](http://gabrielcarroll14.github.io/)
-*   ✉️  You can contact me at [gabrielcarrollar@gmail.com](mailto:gabrielcarrollar@gmail.com)
+*   ✉️  You can contact me at [gabrielcarrollart@gmail.com](mailto:gabrielcarrollart@gmail.com)
 *   🚀  I'm currently working on [my portfolio website](http://gabrielcarroll14.github.io/)
 *   🧠  I'm learning web dev and I have started learning React.
 
